@@ -4,7 +4,9 @@
 def suma(op1, op2):
     return op1+op2
 
-#función de resta devuelve el resultado de Op1-Op2, quienes son sus parámetros de entrada
+
+# función de resta devuelve el resultado de Op1-Op2,
+# quienes son sus parámetros de entrada
 def resta(op1, op2):
     return op1-op2
 
